@@ -4,31 +4,31 @@
 <h3>About me</h3>
 <ui>
   <li>
-- 🔭 I’m currently working on Agoda
+🔭 I’m currently working on Agoda
   </li>
    <li>
-- 🌱 I’m currently learning front end optimization
+🌱 I’m currently learning front end optimization
      </li>
    <li>
-- 👯 I’m looking to collaborate on traning
+👯 I’m looking to collaborate on traning
      </li>
    <li>
-- 🤔 I’m looking for help with ...
+🤔 I’m looking for help with ...
      </li>
    <li>
-- 💬 Ask me about React, Node, GraphQL or any frontend related stuff
+💬 Ask me about React, Node, GraphQL or any frontend related stuff
      </li>
    <li>
-- 📫 How to reach me: [linkedIn @arunkumar](https://www.linkedin.com/in/arunkumarms1/)
+     📫 How to reach me: <a href="https://www.linkedin.com/in/arunkumarms1/"> linkedIn @arunkumar </a>
      </li>
    <li>
-- 😄 Pronouns: He/His
+😄 Pronouns: He/His
      </li>
   </ui>
-
+  
+##
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Arunkumar-MS) 
 [![Github](https://img.shields.io/github/followers/Arunkumar-MS?label=Follow&style=social)](https://github.com/Arunkumar-MS)
-
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunkumar-MS&theme=tokyonight&hide=java)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunkumar-MS&show_icons=true&theme=tokyonight)
