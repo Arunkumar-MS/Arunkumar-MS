@@ -24,7 +24,7 @@
 <h3>About me</h3>
 <ui>
   <li>
-🔭 I’m currently working on Agoda
+🔭 I’m currently working at Agoda
   </li>
    <li>
 🌱 I’m currently learning front end optimization
