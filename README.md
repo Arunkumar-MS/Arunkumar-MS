@@ -33,9 +33,6 @@
 👯 I’m looking to collaborate on traning
      </li>
    <li>
-🤔 I’m looking for help with ...
-     </li>
-   <li>
 💬 Ask me about React, Node, GraphQL or any frontend related stuff
      </li>
    <li>
