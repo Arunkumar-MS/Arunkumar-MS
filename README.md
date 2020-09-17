@@ -26,19 +26,13 @@
 🔭 I’m currently working at Agoda
   </li>
    <li>
-🌱 I’m currently learning front end optimization
-     </li>
-   <li>
 👯 I’m looking to collaborate on traning
      </li>
    <li>
-💬 Ask me about React, Node, GraphQL or any frontend related stuff
+💬 Ask me anything about React, Node, GraphQL or any frontend related stuff
      </li>
    <li>
      📫 How to reach me: <a href="https://www.linkedin.com/in/arunkumarms1/"> linkedIn @arunkumar </a>
-     </li>
-   <li>
-😄 Pronouns: He/His
      </li>
   </ui>
   
