@@ -29,7 +29,7 @@
 👯 I’m looking to collaborate on traning
      </li>
    <li>
-💬 Ask me anything about React, Node, GraphQL or any frontend related stuff
+💬 Ask me anything about React, Node, GraphQL, webpack or any frontend related stuff
      </li>
    <li>
      📫 How to reach me: <a href="https://www.linkedin.com/in/arunkumarms1/"> linkedIn @arunkumar </a>
