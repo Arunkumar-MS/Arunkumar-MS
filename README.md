@@ -26,7 +26,7 @@
 🔭 I’m currently working at Agoda
   </li>
    <li>
-👯 I’m looking to collaborate on traning
+👯 I’m looking for new tech trends to learn
      </li>
    <li>
 💬 Ask me anything about React, Node, GraphQL, webpack or any frontend related stuff
